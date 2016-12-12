@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"BracketHighlighter",
 		"BufferScroll",
 		"CTags",
@@ -17,8 +18,10 @@
 		"Sass",
 		"SASS Build",
 		"SFTP",
+		"SublimeERB",
 		"SublimeLinter",
 		"SublimeTmpl",
+		"SyncedSideBar",
 		"TypeScript"
 	]
 }
