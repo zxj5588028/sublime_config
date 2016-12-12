@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"BufferScroll",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"ExpandRegion",
+		"GitGutter",
+		"Jade",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"TypeScript"
+	]
+}
